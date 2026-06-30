@@ -1,0 +1,19 @@
+{
+  "total": 995,
+  "fcw": {
+    "from": 0,
+    "to": 20,
+    "count": 21
+  },
+  "paises": {
+    "from": 1,
+    "to": 20,
+    "countries": 48,
+    "count": 960
+  },
+  "cocacola": {
+    "from": 1,
+    "to": 14,
+    "count": 14
+  }
+}
